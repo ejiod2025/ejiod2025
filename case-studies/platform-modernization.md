@@ -2,9 +2,9 @@
 
 [Back to profile](https://github.com/ejiod2025)
 
-**Nordstrom · Senior Analytics Engineer**
+**Top Supply Chain Industry · Senior Analytics Engineer**
 
-I completed the migration from Talend to Airflow and built integrations that connect legacy systems with modern data platforms. My responsibilities cover data movement across 18 enterprise source systems, supporting supply-chain reporting and analytics.
+I migrated legacy infrastructure to cloud native platforms and built integrations that connect legacy systems with modern data platforms. My responsibilities cover data movement across 18 enterprise source systems, supporting supply-chain reporting and analytics.
 
 The work combines Java development, streaming pipelines, cloud orchestration, and data-quality controls. My focus is on reliable delivery, maintainable workflows, and accurate information for downstream teams.
 

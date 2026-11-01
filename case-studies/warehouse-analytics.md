@@ -2,7 +2,7 @@
 
 [Back to profile](https://github.com/ejiod2025)
 
-**Nordstrom · Senior Analytics Engineer**
+**Top Supply Chain Industry · Senior Analytics Engineer**
 
 I led a unified analytics platform that brought operational data together for warehouse investigations. It helped teams identify invalid cartons earlier and locate inventory previously considered lost.
 
