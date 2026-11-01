@@ -4,7 +4,7 @@
 
 I build reliable data platforms and turn operational data into useful business insights. My experience spans retail, financial services, energy, and healthcare.
 
-I’m a **Senior Analytics Engineer at Top Supply Chain Industry**, working on platform modernization, data integration, and supply-chain analytics.
+I’m a **Senior Analytics Engineer at top Supply Chain Industry**, working on platform modernization, data integration, and supply-chain analytics.
 
 **[Résumé](https://github.com/ejiod2025/ejiod2025/blob/main/resume/Daniel_Ejiofor_Resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/ejiod/)** · **[Sample project](https://github.com/ejiod2025/warehouse-exception-lab)**
 
