@@ -1,34 +1,11 @@
-# Modernizing data platforms
+# Platform modernization
 
 [Back to profile](https://github.com/ejiod2025)
 
-**Context:** Nordstrom · Senior Analytics Engineer
+**Nordstrom · Senior Analytics Engineer**
 
-**Focus:** Orchestration, CDC, lakehouse ingestion, and reliable delivery
+I completed the migration from Talend to Airflow and built integrations that connect legacy systems with modern data platforms. My responsibilities cover data movement across 18 enterprise source systems, supporting supply-chain reporting and analytics.
 
-## The problem
+The work combines Java development, streaming pipelines, cloud orchestration, and data-quality controls. My focus is on reliable delivery, maintainable workflows, and accurate information for downstream teams.
 
-Supply-chain reporting depends on data moving reliably from operational systems into analytical platforms. My work covers 18 enterprise source systems, including legacy IBM i / AS400 environments. Modernization involved more than replacing a scheduler: ingestion, transformations, incremental changes, and downstream reporting all had to work together.
-
-## My contribution
-
-I completed the migration from Talend to Airflow, including substantial Java development. I also built custom Java / Apache Flink CDC connectors to capture changes from legacy systems and move them through Kafka into downstream platforms.
-
-For batch and streaming ingestion, I worked with Hudi and Delta Lake to handle incremental processing, updates and deletes, and schema evolution. My Airflow and Cloud Composer workflows also launch Google Dataflow Flex Template jobs. Manhattan WMS workflows cover warehouse productivity refreshes, CSV exports, schema extraction, and replication.
-
-The surrounding engineering work includes validation, source-to-target mappings, data contracts, observability, lineage, and replay and recovery. CI/CD, Terraform, Liquibase, and release-validation standards support repeatable pipeline and database changes.
-
-## Engineering considerations
-
-- **Orchestration and processing have different responsibilities.** Airflow coordinates workflows; the processing jobs and connectors handle data movement and transformation.
-- **CDC needs more than inserts.** Updates, deletes, and changing schemas matter when downstream consumers need an accurate view of operational state.
-- **Recovery is part of the design.** Historical backfills and streaming changes need validation and a defined recovery approach so a rerun does not silently produce inconsistent results.
-- **A successful migration must support its consumers.** Source mappings and downstream checks connect platform changes to the reporting that depends on them.
-
-## Outcome and current work
-
-The Talend-to-Airflow migration is complete. My broader responsibilities span ingestion, CDC, storage, transformation, and delivery for supply-chain analytics.
-
-I am also evaluating analytical serving options for an Aurora/PostgreSQL-based architecture, including StarRocks and other OLAP systems. That work considers materialized views, concurrency, caching, freshness, infrastructure sizing, and cost. **Status: architecture evaluation.**
-
-This case study is a high-level account of professional experience. It does not include employer source code, internal schemas, or operational data.
+I’m also evaluating options for analytical platforms, with attention to performance, freshness, and cost. That work is currently in the architecture and evaluation stage.
