@@ -10,9 +10,9 @@ I’m a **Senior Analytics Engineer at top Supply Chain Industry**, working on p
 
 ## Selected work
 
-- **Platform modernization:** Migrated legacy infrastructure to cloud native platforms and built data integrations supporting 18 enterprise source systems. [Brief overview](https://github.com/ejiod2025/ejiod2025/blob/main/case-studies/platform-modernization.md)
-- **Warehouse analytics:** Led a unified analytics platform that helped teams identify carton issues, recover missing inventory, and improve reporting accuracy. [Brief overview](https://github.com/ejiod2025/ejiod2025/blob/main/case-studies/warehouse-analytics.md)
-- **Applied AI:** Developed voice and healthcare workflow prototypes at SiriusMed, including Yoruba speech recognition. [Brief overview](https://github.com/ejiod2025/ejiod2025/blob/main/case-studies/voice-and-healthcare-ai.md)
+- **Platform modernization:** Migrated legacy infrastructure to cloud native platforms and built data integrations supporting 18 enterprise source systems. [Platform overview](https://github.com/ejiod2025/ejiod2025/blob/main/case-studies/platform-modernization.md)
+- **Warehouse analytics:** Led a unified analytics platform that helped teams identify carton issues, recover missing inventory, and improve reporting accuracy. [Warehouse overview](https://github.com/ejiod2025/ejiod2025/blob/main/case-studies/warehouse-analytics.md)
+- **Applied AI:** Developed voice and healthcare workflow prototypes at SiriusMed, including Yoruba speech recognition. [AI overview](https://github.com/ejiod2025/ejiod2025/blob/main/case-studies/voice-and-healthcare-ai.md)
 
 ## Core skills
 
@@ -26,4 +26,4 @@ Python · Java · SQL · Airflow · Flink · Kafka · Cloud data platforms · An
 
 I’m pursuing an **MSc in Computer Science and Artificial Intelligence at Boston University**. My focus is on reliable data systems and practical AI tools that help people investigate problems and make better decisions.
 
-Connect with me on **[LinkedIn](https://www.linkedin.com/in/ejiod/)**.
+Next, I plan to extend the warehouse demo to evaluate whether AI-assisted investigations cite the right evidence and handle incomplete data. [Reflection and next steps](https://github.com/ejiod2025/ejiod2025/blob/main/REFLECTION.md).
